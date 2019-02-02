@@ -1,6 +1,7 @@
 # mangohacks-git-workshop
 sweet
 
+Im a gnome
 
 Carlos is giving the Git workshop.
 
